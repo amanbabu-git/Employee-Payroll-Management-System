@@ -34,21 +34,21 @@ A digital solution for managing employee data, salaries, leave applications, and
 
 # SCREENSHOTS
 MAIN SCREEN:<br>
-![image]()
+![image](S4.png)
 
 ADMIN DASHBOARD:<br>
 
-![image]()
+![image](S3.png)
 <br>
-![image]()
+![image](S2.png)
 
 
 EMPLOYEE DASHBOARD:<br>
-![image]()
+![image](S5.png)
 
 
 PAYSLIP:<br>
-![image]()
+![image](S1.png)
 
 
 
